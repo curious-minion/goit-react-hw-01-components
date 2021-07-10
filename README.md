@@ -1,0 +1,4 @@
+- Social profile
+- statistics
+- friend list
+- transaction history
