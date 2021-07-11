@@ -1,9 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import defaultImage from './defaultAvatar.svg';
+// import {Styles} from './Profile.module.css';
 
 const Profile = ({ avatar, name, tag, location, stats }) => (
-  <div className="profile">
+  // <Styles>
+    <div className="profile">
     <div className="description">
       <img src={avatar} alt="Аватар пользователя" className="avatar" />
       <p className="name">{name}</p>
@@ -26,6 +28,8 @@ const Profile = ({ avatar, name, tag, location, stats }) => (
       </li>
     </ul>
   </div>
+  //  </Styles> 
+  
 );
 
 Profile.defaultProps = {

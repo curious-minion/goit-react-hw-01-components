@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://www.flaticon.com/svg/static/icons/svg/763/763704.svg",
+    "name": "Ivan Ivanov",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://www.flaticon.com/svg/static/icons/svg/1998/1998671.svg",
+    "name": "Maria Fox",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://www.flaticon.com/svg/static/icons/svg/1623/1623681.svg",
+    "name": "Alex Wonderland",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://www.flaticon.com/svg/static/icons/svg/2977/2977285.svg",
+    "name": "Felix Koch",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://www.flaticon.com/svg/static/icons/svg/1998/1998749.svg",
+    "name": "Louisa Johnson",
+    "isOnline": false,
+    "id": 1284
+  }
+]
