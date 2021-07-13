@@ -1,0 +1,21 @@
+.table {
+  margin: 0 auto;
+  display: table;
+  width: 800px;
+  border: 1px solid rgba(28, 255, 8, 0.31);
+  margin-bottom: 50px;
+}
+.first_row {
+  height: 50px;
+
+  background-color: rgba(28, 255, 8, 0.31);
+  font-size: 18px;
+}
+
+.body_item {
+  height: 30px;
+}
+
+.body_item:nth-child(2n-1) {
+  background-color: rgba(29, 255, 8, 0.18);
+}
